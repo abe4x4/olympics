@@ -1,11 +1,13 @@
-Top Olympic Medal Winner Countries
+# Top Olympic Medal Winner Countries
 
-This project is about finding the top 5 TOTAL Olympic medals winning countries for the summer games, winter games and both summer and winter games combined from 1896 to 2018 (124 years). 
+## Description
 
 The Summer Olympic Games, also known as the Games of the Olympiad, are a major international multi-sport event normally held once every four years. The Games were first held in 1896 in Athens, Greece, and were most recently the 2020 Summer Olympics held in 2021 in Tokyo, Japan.
 The International Olympic Committee (IOC) organizes the Games and oversees the host city's preparations. In each Olympic event, gold medals are awarded for first place, silver medals are awarded for second place, and bronze medals are awarded for third place; this tradition began in 1904.
 
-This project is built to meet the following requirements of “Python Data Analysis 1” of Code Louisville January 2021 session: 
+This project is about finding the top 5 TOTAL Olympic medals winning countries for the summer games, winter games and both summer and winter games combined from 1896 to 2018 (124 years). 
+
+## This project is built to meet the following requirements of “Python Data Analysis 1” of Code Louisville January 2021 session: 
 
 1. Read data from an external file, such as text, JSON, CSV, etc. and use that data in your application
 2. Visualize data in a graph, chart, or other visual representation of data
@@ -13,21 +15,23 @@ This project is built to meet the following requirements of “Python Data Analy
 4. Create and call at least 3 functions or methods, at least one of which must return a value that is used somewhere else in your code. To clarify, at least one function should be called in your code, that function should calculate, retrieve, or otherwise set the value of a variable or data structure, return a value to where it was called, and use that value somewhere else in your code. For example, you could create a function that reads how many items there are in a text file, returns that value, and later uses that value to execute a loop a certain number of times.
 5. Use pandas, matplotlib, and/or numpy to perform a data analysis project. Ingest 2 or more pieces of data, analyze that data in some manner, and display a new result to a graph, chart, or other display
 
-More information about the three datasets: 
+
+## More information about the three datasets: 
 
 The three datasets were downloaded from two different pages on Kaggle website (https://www.kaggle.com/code/arpitsolanki14/olympic-games-data-analysis/data “summer.csv” and “winter.csv”
 and
 https://www.kaggle.com/datasets/mysarahmadbhat/120-years-of-olympic-history?select=country_definitions.csv “country_definitions.csv). 
 
 
-This project was written in the Jupyter notebook. The following packages were imported in this project: 
+## This project was written in the Jupyter notebook. The following packages were imported in this project: 
 
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-How to run this project: 
+
+## How to run this project: 
 
 1. Start with .ipynb file "medals.ipynb".
 2. You must install jupyter labs to run the code in the jupyter notebook (visit https://jupyterlabs.org/install) or run jupyter notebooks in a browser.
@@ -45,74 +49,8 @@ pip install seaborn
 
 For visual studio (VS) Code users on Windows, make sure you get the python and Jupyter extensions.
 
-TODO LIST:
-03-22-22
-    I still need to do:
-      1. Find a way to replace NOC letters with the full name of countries
-      2. Display the medal results in graphs
-      3. Work on setting a virtual enviroment using venv or docker
-      4. create interactions with users through tkinter
-      
-      
-# Project Title
 
-Simple overview of use/purpose.
-
-## Description
-
-An in-depth paragraph about your project and overview of use.
-
-## Getting Started
-
-### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+## TODO LIST: I still need to do
+    
+    ### 3/22/2022
+    1. 

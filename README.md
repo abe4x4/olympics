@@ -25,10 +25,10 @@ https://www.kaggle.com/datasets/mysarahmadbhat/120-years-of-olympic-history?sele
 
 ## This project was written in the Jupyter notebook. The following packages were imported in this project: 
 
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
+1. import numpy as np
+2. import pandas as pd
+3. import matplotlib.pyplot as plt
+4. import seaborn as sns
 
 
 ## How to run this project: 
@@ -50,7 +50,9 @@ pip install seaborn
 For visual studio (VS) Code users on Windows, make sure you get the python and Jupyter extensions.
 
 
-## TODO LIST: I still need to do
-    
-    ### 3/22/2022
+## TODO LIST: 
+
+I still need to do
+
+### 3/22/2022
     1. 

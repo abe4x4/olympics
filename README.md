@@ -54,5 +54,10 @@ For visual studio (VS) Code users on Windows, make sure you get the python and J
 
 I still need to do
 
-### 3/22/2022
-    1. 
+#### 3/22/2022
+
+1. Replace NOC with country names
+2. Plot or graph results
+3. Create virtual enviroment
+4. Offer user interaction (tkinter)
+    

@@ -7,7 +7,7 @@ The International Olympic Committee (IOC) organizes the Games and oversees the h
 
 This project is about finding the top 5 TOTAL Olympic medals winning countries for the summer games, winter games and both summer and winter games combined from 1896 to 2018 (124 years). 
 
-## This project is built to meet the following requirements of “Python Data Analysis 1” of Code Louisville January 2021 session: 
+### This project is built to meet the following requirements of “Python Data Analysis 1” of Code Louisville January 2021 session: 
 
 1. Read data from an external file, such as text, JSON, CSV, etc. and use that data in your application
 2. Visualize data in a graph, chart, or other visual representation of data

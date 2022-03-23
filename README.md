@@ -44,3 +44,11 @@ pip install seaborn
 9. See comments in each code block (notebook cell) for further details about the project. You will see the features listed in the comments such as the dictionary and data visualization.
 
 For visual studio (VS) Code users on Windows, make sure you get the python and Jupyter extensions.
+
+TODO LIST:
+03-22-22
+    I still need to do:
+      1. Find a way to replace NOC letters with the full name of countries
+      2. Display the medal results in graphs
+      3. Work on setting a virtual enviroment using venv or docker
+      4. create interactions with users through tkinter

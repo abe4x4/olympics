@@ -39,8 +39,8 @@ Select "Kernel" (top ribbon) and "Restart and run all cells."
 ### TODO LIST:
 I still need to do
 
-### 3/22/2022
-Replace NOC with country names
-Plot or graph results
-Create virtual enviroment
-Offer user interaction (tkinter)
+#### 3/22/2022
+1. Replace NOC with country names
+2. Plot or graph results
+3. Create virtual enviroment
+4. Offer user interaction (tkinter)

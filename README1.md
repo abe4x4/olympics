@@ -24,15 +24,15 @@ The three datasets were downloaded from two different pages on Kaggle website (h
 4. import seaborn as sns
 
 ### How to run this project:
-Start with .ipynb file "medals.ipynb".
-You must install jupyter labs to run the code in the jupyter notebook (visit https://jupyterlabs.org/install) or run jupyter notebooks in a browser.
-Once in the jupyter notebook, navigate to the directory where you downloaded the project files. (You should see the .ipynb file, and "data" folder needed to run this project).
-Open the .ipynb file.
-You may need to install the above-mentioned 4 packages. Open terminal and run the following commands to install each package: Pip install pandas Pip install numpy pip install matplotlib.pyplot pip install seaborn
-Go back to the jupyter notebooks. You see we are now importing these packages. So you should be able to run the code now.
+1. Start with .ipynb file "medals.ipynb".
+2. You must install jupyter or jupyter labs to run the code in the jupyter notebook (visit https://jupyterlabs.org/install) or run jupyter notebooks in a browser.
+3. Once in the jupyter notebook, navigate to the directory where you downloaded the project files. (You should see the .ipynb file, and "data" folder needed to run this project).
+4. Open the .ipynb file.
+5. You may need to install the above-mentioned 4 packages. Open terminal and run the following commands to install each package: Pip install pandas Pip install numpy pip install matplotlib.pyplot pip install seaborn
+6. Go back to the jupyter notebooks. You see we are now importing these packages. So you should be able to run the code now.
 Select "Kernel" (top ribbon) and "Restart and run all cells."
-The script should read in the two csv files, from the "data" folder ("annual_aqi_by_cbsa_2020.csv" and "annual_aqi_by_cbsa_2019.csv")
-See comments in each code block (notebook cell) for further details about the project. You will see the features listed in the comments such as the dictionary and data visualization.
+7. The script should read in the three csv files, from the "data" folder ("summer.csv", "winter.csv" and "country_definitions.csv")
+8. See comments in each code block (notebook cell) for further details about the project. You will see the features listed in the comments such as the dictionary and data visualization.
 
 *For visual studio (VS) Code users on Windows, make sure you get the python and Jupyter extensions.*
 

@@ -54,6 +54,12 @@ For visual studio (VS) Code users on Windows, make sure you get the python and J
 
 I still need to do
 
+#### 3/27/2022
+1. Add pictue to README file
+2. Add a dictionary
+3. Improve graphs by using seaborn
+4. Add a GUI using tkinter
+
 #### 3/22/2022
 
 1. Replace NOC with country names

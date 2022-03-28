@@ -43,6 +43,8 @@ Pip install pandas
 Pip install numpy
 pip install matplotlib.pyplot
 pip install seaborn
+some other packges need to be installed (all mentioned in the 'requirements.txt' file)
+
 6. Go back to the jupyter notebooks. You see we are now importing these packages. So you should be able to run the code now.
 7. Select "Kernel" (top ribbon) and "Restart and run all cells."
 8. The script should read in the two csv files, from the "data" folder ("annual_aqi_by_cbsa_2020.csv" and "annual_aqi_by_cbsa_2019.csv") 

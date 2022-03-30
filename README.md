@@ -1,6 +1,6 @@
-<p align="center">
-    <h1>Top Olympic Medal Winner Countries</h1>
-</p>
+
+    <h1 align="center">Top Olympic Medal Winner Countries</h1>
+
 
 <p align="center">
   <img src="images/olympics_logo.png">

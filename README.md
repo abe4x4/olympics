@@ -1,6 +1,9 @@
 # Top Olympic Medal Winner Countries
 
-![Logo](images/olympics_logo.png)
+
+<p align="center">
+  <img src="images/olympics_logo.png">
+</p>
 ## Description
 
 This project is about finding the top 10 TOTAL and GOLD Olympic medals winning countries for the summer games, winter games and both summer and winter games combined from 1896 in Athens to 2021 in Tokyo(125 years). 

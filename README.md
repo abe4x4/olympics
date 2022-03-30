@@ -1,5 +1,5 @@
 <p align="center">
-# Top Olympic Medal Winner Countries
+    <h1>Top Olympic Medal Winner Countries</h1>
 </p>
 
 <p align="center">

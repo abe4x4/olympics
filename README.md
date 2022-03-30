@@ -1,13 +1,10 @@
 
-    
-        <<h1> Top Olympic Medal Winner Countries </h1>
-
-
-
 <p align="center">
-  <img src="images/olympics_logo.png">
+  <img src="images/olympics_logo.png" width="400">
 </p>
-## Description
+
+<div align="center"><h1> Top Olympic Medals </h1></div>
+<h2> Description </h2>
 
 This project is about finding the top 10 TOTAL and GOLD Olympic medals winning countries for the summer games, winter games and both summer and winter games combined from 1896 in Athens to 2021 in Tokyo(125 years). 
 
@@ -31,7 +28,8 @@ and
 https://www.kaggle.com/datasets/mysarahmadbhat/120-years-of-olympic-history?select=country_definitions.csv “country_definitions.csv). 
 
 
-## This project was written in the Jupyter notebook. The following packages were imported in this project: 
+## This project was written in the Jupyter notebook. 
+### The following packages were imported in this project: 
 
 1. import numpy as np
 2. import pandas as pd

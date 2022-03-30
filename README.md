@@ -1,7 +1,7 @@
 
-    <h1 align="center">
+    
         <<h1> Top Olympic Medal Winner Countries </h1>
-    </h1>
+
 
 
 <p align="center">

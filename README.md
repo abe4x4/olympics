@@ -3,7 +3,7 @@
   <img src="images/olympics_logo.png" width="400">
 </p>
 
-<div align="center"><h1> Top Olympic Medals </h1></div>
+<div align="center"><h1> Olympic Medals </h1></div>
 <h2> Description </h2>
 
 This project is about finding the top 10 TOTAL and GOLD Olympic medals winning countries for the summer games, winter games and both summer and winter games combined from 1896 in Athens to 2021 in Tokyo(125 years). 

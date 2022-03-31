@@ -14,7 +14,8 @@ The Winter Olympic Games is a major international multi-sport event held once ev
 
 This project is built to meet the following requirements of “Python Data Analysis 1” of Code Louisville January 2021 session: 
 
-**_Category 1: Python Programming Basics:
+*** 
+#### Category 1: Python Programming Basics:
 Implement a “master loop” console application where the user can repeatedly enter commands/perform actions, including choosing to exit the program.	
 Create a class, then create at least one object of that class and populate it with data. The value of at least one object must be used somewhere in your code.
 Create a dictionary or list, populate it with several values, retrieve at least one value, and use it in your program.
@@ -23,11 +24,13 @@ Implement a regular expression (regex) to ensure a field either a phone number o
 Build a conversion tool that converts user input to another type and displays it (ex: converts cups to grams).
 Calculate and display data based on an external factor (ex: get the current date, and display how many days remain until some event).
 Analyze text and display information about it (ex: how many words in a paragraph).
-Category 2: Utilize External Data:
+
+#### Category 2: Utilize External Data:
 Read data from an external file, such as text, JSON, CSV, etc, and use that data in your application.
 Connect to an external/3rd party API and read data into your app
 Connect to a database and read data using SQL.
-Category 3: Data Display
+
+#### Category 3: Data Display
 Visualize data in a graph, chart, or other visual representation of data.
 Display data in tabular form
 Category 4: Best Practices
@@ -36,13 +39,13 @@ Create 3 or more unit tests for your application.
 The program should utilize a virtual environment and document library dependencies in a requirements.txt file.
 Other features can be added to this list with mentor or staff permission, but we want to see you stretch your skills, so you’ll want to pick something challenging.
 
-“STRETCH” FEATURE LIST:
+#### “STRETCH” FEATURE LIST:
 These count too! But they will require going outside of the base curriculum to learn about and may be more challenging.
 Implement a “scraper” that can be fed a type of file or URL and pull information off of it. For example, a web scraper that lets you provide any website URL and it will find certain keywords on the page.
 Implement optical character recognition (OCR) that you can upload PDFs to and it will generate the text.
 Use pandas, matplotlib, and/or numpy to perform a data analysis project. Ingest 2 or more pieces of data, analyze that data in some manner, and display a new result to a graph, chart, or other display.
-Use a Jupyter notebook to document your data analysis.
-_**
+Use a Jupyter notebook to document your data analysis. 
+***
 
 
 1. Read data from an external file, such as text, JSON, CSV, etc. and use that data in your application

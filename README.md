@@ -14,40 +14,6 @@ The Winter Olympic Games is a major international multi-sport event held once ev
 
 This project is built to meet the following requirements of “Python Data Analysis 1” of Code Louisville January 2021 session: 
 
-*** 
-#### Category 1: Python Programming Basics:
-Implement a “master loop” console application where the user can repeatedly enter commands/perform actions, including choosing to exit the program.	
-Create a class, then create at least one object of that class and populate it with data. The value of at least one object must be used somewhere in your code.
-Create a dictionary or list, populate it with several values, retrieve at least one value, and use it in your program.
-Create and call at least 3 functions or methods, at least one of which must return a value that is used somewhere else in your code. To clarify, at least one function should be called in your code, that function should calculate, retrieve, or otherwise set the value of a variable or data structure, return a value to where it was called, and use that value somewhere else in your code. For example, you could create a function that reads how many items there are in a text file, returns that value, and later uses that value to execute a loop a certain number of times.
-Implement a regular expression (regex) to ensure a field either a phone number or an email address is always stored and displayed in the same format.
-Build a conversion tool that converts user input to another type and displays it (ex: converts cups to grams).
-Calculate and display data based on an external factor (ex: get the current date, and display how many days remain until some event).
-Analyze text and display information about it (ex: how many words in a paragraph).
-
-#### Category 2: Utilize External Data:
-Read data from an external file, such as text, JSON, CSV, etc, and use that data in your application.
-Connect to an external/3rd party API and read data into your app
-Connect to a database and read data using SQL.
-
-#### Category 3: Data Display
-Visualize data in a graph, chart, or other visual representation of data.
-Display data in tabular form
-Category 4: Best Practices
-Implement a log that records errors, invalid inputs, or other important events and writes them to a text file.
-Create 3 or more unit tests for your application.
-The program should utilize a virtual environment and document library dependencies in a requirements.txt file.
-Other features can be added to this list with mentor or staff permission, but we want to see you stretch your skills, so you’ll want to pick something challenging.
-
-#### “STRETCH” FEATURE LIST:
-These count too! But they will require going outside of the base curriculum to learn about and may be more challenging.
-Implement a “scraper” that can be fed a type of file or URL and pull information off of it. For example, a web scraper that lets you provide any website URL and it will find certain keywords on the page.
-Implement optical character recognition (OCR) that you can upload PDFs to and it will generate the text.
-Use pandas, matplotlib, and/or numpy to perform a data analysis project. Ingest 2 or more pieces of data, analyze that data in some manner, and display a new result to a graph, chart, or other display.
-Use a Jupyter notebook to document your data analysis. 
-***
-
-
 1. Read data from an external file, such as text, JSON, CSV, etc. and use that data in your application
 2. Visualize data in a graph, chart, or other visual representation of data
 3. Create a dictionary or list, populate it with several values, retrieve at least one value, and use it in your program
@@ -86,7 +52,7 @@ Pip install pandas
 Pip install numpy
 pip install matplotlib.pyplot
 pip install seaborn
-some other packges need to be installed (all mentioned in the 'requirements.txt' file)
+pip install rich
 
 6. Go back to the jupyter notebooks. You see we are now importing these packages. So you should be able to run the code now.
 7. Select "Kernel" (top ribbon) and "Restart and run all cells."
@@ -95,20 +61,4 @@ some other packges need to be installed (all mentioned in the 'requirements.txt'
 
 For visual studio (VS) Code users on Windows, make sure you get the python and Jupyter extensions.
 
-## TODO LIST: 
-
-I still need to do
-
-#### 3/27/2022
-1. Add pictue to README file
-2. Add a dictionary
-3. Improve graphs by using seaborn
-4. Add a GUI using tkinter
-
-#### 3/22/2022
-
-1. Replace NOC with country names
-2. Plot or graph results
-3. Create virtual enviroment
-4. Offer user interaction (tkinter)
     
